@@ -1,0 +1,14 @@
+D:\siwar\QueteException\QueteException\bin\Debug\net7.0\QueteException.exe
+D:\siwar\QueteException\QueteException\bin\Debug\net7.0\QueteException.deps.json
+D:\siwar\QueteException\QueteException\bin\Debug\net7.0\QueteException.runtimeconfig.json
+D:\siwar\QueteException\QueteException\bin\Debug\net7.0\QueteException.dll
+D:\siwar\QueteException\QueteException\bin\Debug\net7.0\QueteException.pdb
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\QueteException.GeneratedMSBuildEditorConfig.editorconfig
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\QueteException.AssemblyInfoInputs.cache
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\QueteException.AssemblyInfo.cs
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\QueteException.csproj.CoreCompileInputs.cache
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\QueteException.dll
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\refint\QueteException.dll
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\QueteException.pdb
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\QueteException.genruntimeconfig.cache
+D:\siwar\QueteException\QueteException\obj\Debug\net7.0\ref\QueteException.dll
